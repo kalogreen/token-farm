@@ -22,7 +22,7 @@ contract DappToken {
     mapping(address => mapping(address => uint256)) public allowance;
 
     constructor() public {
-        balanceOf[msg.sender] = totalSupply;
+        balanceOf[msg.sender] = totalSupply;        //This assigns the all the tokens to the person who deployed the SC
     }
 
     function transfer(address _to, uint256 _value) public returns (bool success) {
