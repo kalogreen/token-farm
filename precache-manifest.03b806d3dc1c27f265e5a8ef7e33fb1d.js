@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "06aa3e3ef75b16a0bdbc",
+    "revision": "b76b553ee52979540e7f",
     "url": "/token-farm/static/css/main.20028c1a.chunk.css"
   },
   {
-    "revision": "06aa3e3ef75b16a0bdbc",
-    "url": "/token-farm/static/js/main.06aa3e3e.chunk.js"
+    "revision": "b76b553ee52979540e7f",
+    "url": "/token-farm/static/js/main.b76b553e.chunk.js"
   },
   {
     "revision": "8a15121cb41a6675f11b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/token-farm/static/js/runtime~main.b281d237.js"
   },
   {
-    "revision": "86f6235d305b0f1bdbbd5459e1346f3b",
+    "revision": "8616d5f6314377304aa045cb0876091b",
     "url": "/token-farm/index.html"
   }
 ];
